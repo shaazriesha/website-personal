@@ -1,0 +1,42 @@
+h1
+{
+	font-family: "Sofia", sans-serif;
+	color: yellow;
+}
+
+h3
+{
+	font-family: "Montserrat", serif;
+	color: chocolate;
+}
+
+h2
+{
+	font-family: "Cairo", serif;
+	color: blue;
+}
+
+a {
+  background-color: purple;
+  box-shadow: 0 5px 0 darkred;
+  color: white;
+  padding: 1em 1.5em;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:hover {
+  background-color: #ce0606;
+}
+
+a:active {
+  box-shadow: none;
+  top: 5px;
+}
+
+span
+{
+	background-color: #ffb1c6;
+	font-family: "Cairo", serif;
+}
